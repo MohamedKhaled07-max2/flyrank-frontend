@@ -20,3 +20,10 @@ This is my capstone project for the FlyRank Frontend AI internship.
 - Explain important code decisions.
 - Preserve existing functionality when modifying code.
 - Test changes before considering a task complete.
+
+## Project Rules
+
+- Every form control must have an associated label.
+- User input must be validated before successful submission.
+- Every new feature must be tested with both valid and invalid input cases.
+- Interactive elements must support keyboard navigation.
